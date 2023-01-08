@@ -1,4 +1,4 @@
-# My Projects
+## My Projects
 
 # 1. Realtime Weather App :sun_behind_large_cloud:
 
@@ -8,6 +8,8 @@ This project is built using [Open Weather Map API](https://api.openweathermap.or
 
 https://real-weather-three.vercel.app/
 
+#
+#
 
 # 2. Global GIF Search App :mag:
 
